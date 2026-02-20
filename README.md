@@ -9,7 +9,7 @@ My skills cover 5 essential steps: statistics, mathematics, and theoretical data
 You can view some of my projects on GitHub. Currently, I am co-founding the “Homa” chatbot and plan to launch it by next month.
 
 
-I am also interested in writing articles about combining AI with any other discipline. If you’d like to discuss this, feel free to message me at the email address on my resume (Check me https://elhamit.com) ☺️📩
+I am also interested in writing articles about combining AI with any other discipline. If you’d like to discuss this, feel free to message me at the email address on my resume (Check me out @ https://elhamit.com) ☺️📩
 
 
 My hobbies include taking online courses, coding, and watching movies. I love traveling—especially trips where I can walk along the beach.
