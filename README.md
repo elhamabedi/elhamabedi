@@ -15,11 +15,11 @@ I am also interested in writing articles about combining AI with any other disci
 My hobbies include taking online courses, coding, and watching movies. I love traveling—especially trips where I can walk along the beach.
 
 ### TECHNICAL SKILLS
-+ Programming: Python, SQL, R, MATLAB
-+ ML & DL: Machine Learning, Neural Networks, Deep Learning
-+ AI & NLP: Natural Language Processing, Generative AI (LLMs), Prompt Engineering
-+ Data Science: Data Analysis, Data Preprocessing, Data Visualization
-+ Tools & Libraries: PyTorch, TensorFlow, NumPy, Jupyter Notebook, Git
++ **Programming:** Python, SQL, R, MATLAB
++ **ML & DL:** Machine Learning, Neural Networks, Deep Learning
++ **AI & NLP:** Natural Language Processing, Generative AI (LLMs), Prompt Engineering
++ **Data Science:** Data Analysis, Data Preprocessing, Data Visualization
++ **Tools & Libraries:** PyTorch, TensorFlow, NumPy, Jupyter Notebook, Git
 
 
 <!--
